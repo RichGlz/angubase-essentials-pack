@@ -1,0 +1,39 @@
+{
+    "name": "angubase-essentials-pack",
+    "displayName": "AnguBase Essentials Pack",
+    "description": "Essentials Angular Framework and Firebase extensions.",
+    "version": "0.0.1",
+    "publisher": "RichGlz",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon":"images/icon.png",
+    "repository": {
+        "type":"git",
+        "url":"https.asd"
+    },
+    "extensionPack": [ 
+        "mikael.angular-beastcode",
+        "angular.ng-template",
+        "johnpapa.angular2",
+        "natewallace.angular2-inline",
+        "jasonnutter.search-node-modules",
+        "donjayamanne.jquerysnippets",
+        "hridoy.jquery-snippets",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "rbbit.typescript-hero",
+        "xabikos.javascriptsnippets",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "me-dutour-mathieu.vscode-firebase",
+        "toba.vsfire",
+        "jsayol.firebase-explorer",
+        "hasanakg.firebase-snippets",
+        "peterhdd.firebase-firestore-snippets",
+        "kisstkondoros.vscode-gutter-preview"
+    ]
+}
